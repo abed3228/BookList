@@ -33,3 +33,9 @@
         display: none;
     }
 }
+
+.from-border{
+    border: 1px solid #bbb9b9;
+    border-radius: 5px;
+    padding:10px;   
+}
